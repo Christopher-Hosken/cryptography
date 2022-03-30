@@ -1,18 +1,18 @@
-## Getting Started
+## Precalc class cryptography
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+ALPHABETA -> WFOTTZWIMIUZ = LIGHTWEIGHTX
 
-The workspace contains two folders by default, where:
+ILOVEFOOD -> UFYSNPJIIAXWBKR = DOYOULOVEFOODXX
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+UNPLUGGED -> ARYJNUZHB = LUUPZEFQV
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+IHATETHIS -> SUPLFKFUJESTQTT = VMJSHPPRDXEZZWW
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+TECHNIQUE -> RUNMSATDM = AAAAAAAAA
 
-## Dependency Management
+METAVERSE -> HCBUIMPIAQXJKGJJSO = FUTYWKCONTROLSYOUX
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+PEAINPODS -> WTOEUGGLRCOA = YALIKECHEESE
+
+
