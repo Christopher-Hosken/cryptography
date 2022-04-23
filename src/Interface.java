@@ -17,9 +17,9 @@ public class Interface {
 
         JPanel encode_panel = new JPanel();
         JLabel key_label = new JLabel("Key: ");
-        JTextField key = new JTextField("ABCDEFGHI");
+        JTextField key = new JTextField("ILOVEFOOD");
         JLabel message_label = new JLabel("Input: ");
-        JTextField message = new JTextField("HELLO WORLD");
+        JTextField message = new JTextField("DOYOULOVEFOOD");
         JButton encode_button = new JButton("Encode");
         JButton decode_button = new JButton("Decode");
         JLabel output = new JLabel("");
